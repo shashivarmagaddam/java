@@ -71,11 +71,6 @@ java HelloWorld
 
 ---
 
-## 🎨 Java Program Logo
-
-![Java Cup Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Java-Logo.svg/2560px-Java-Logo.svg.png)
-
----
 
 ## 📦 Contribution Guide
 
